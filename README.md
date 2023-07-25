@@ -1,6 +1,7 @@
 ## Requires    
 `zip`    
-on windows I've used   [gnuwin32-zip](https://gnuwin32.sourceforge.net/packages/zip.htm)
+`wget`    
+on windows I've used   [gnuwin32-zip](https://gnuwin32.sourceforge.net/packages/zip.htm) and [gnuwin32-wget](https://gnuwin32.sourceforge.net/packages/wget.htm	) 
 
 ## Changes
 Added `BuildAndPackage.bat/sh` calls nextjs build and export then calls `package.bat/sh`  
